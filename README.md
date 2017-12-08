@@ -1,2 +1,2 @@
 # Data-Science-Project
-Jake and my license
+Jake and my Final Project for CS 109a / Stat 121a
